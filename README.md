@@ -25,5 +25,3 @@ Mass image upload detection and alerts
 /set_flood: Configure upload limits
 
 /hardkill: Manage auto-deletion rules
-
-Context Menu (Check Image Hash): Right-click manual check

@@ -1,8 +1,8 @@
-#HashBot
+# HashBot
 
 Real-time Discord image monitoring bot using Perceptual Hashing (pHash). Detects resized or compressed blacklist images.
 
-#Core Features
+# Core Features
 
 Image similarity matching for modified files
 
@@ -12,7 +12,7 @@ Mass image upload detection and alerts
 
 5-second log batching to prevent API rate limits
 
-#Commands
+# Commands
 
 /blacklist: Manage blacklist data (add, remove, list, show)
 
